@@ -40,6 +40,13 @@ class DosyaBul():
                 print("{}) {}".format(indeks+1,suruculer[indeks]))
             print("{}) Tüm sürücülerde".format(len(suruculer)+1))
 
+
+iki satir daha eklemem istendi..
+bu ikinci satir,,
+bir tane de ilave satir aciyorum
+
+
+
             
             while True:
                 tercih = input("İlgili Dosya yukarıdaki sürücülerden hangisinde aransın?\nSıra numarasını giriniz:")
@@ -184,8 +191,9 @@ Tercihiniz :""".format(enTepe))
             if istek == "E" or istek == "e":
                 subprocess.Popen(['notepad.exe', '{}'.format( os.getcwd() + os.sep + kayitAdi )])
         
-# Burada yeni bir kod blogu  yazalim
 
+Numan was here..
+# Burada yeni bir kod blogu  yazalim
 
 if __name__ == "__main__":
     bul = DosyaBul()
