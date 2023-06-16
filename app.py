@@ -184,7 +184,7 @@ Tercihiniz :""".format(enTepe))
                 subprocess.Popen(['notepad.exe', '{}'.format( os.getcwd() + os.sep + kayitAdi )])
         
 
-
+Numan was here..
 
 if __name__ == "__main__":
     bul = DosyaBul()
