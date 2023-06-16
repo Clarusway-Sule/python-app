@@ -201,3 +201,7 @@ if __name__ == "__main__":
 yanlisbirseyler yapmadigimi umuyorum eger gene herseyi silersem toparlamak baya zaman alacak sanirsam galiba ,,
 
 print('kodlar bitti')
+
+print('kodlar bitti')
+
+print('kodlar bitti')
