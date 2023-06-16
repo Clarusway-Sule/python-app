@@ -184,7 +184,7 @@ Tercihiniz :""".format(enTepe))
             if istek == "E" or istek == "e":
                 subprocess.Popen(['notepad.exe', '{}'.format( os.getcwd() + os.sep + kayitAdi )])
         
-
+# Burada yeni bir kod blogu  yazalim
 
 
 if __name__ == "__main__":
