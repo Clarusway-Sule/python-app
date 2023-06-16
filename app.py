@@ -1,3 +1,4 @@
+print('kodlar basladi')
 import os
 import subprocess
 import string
@@ -192,8 +193,11 @@ Tercihiniz :""".format(enTepe))
         
 
 Numan was here..
+# Burada yeni bir kod blogu  yazalim
 
 if __name__ == "__main__":
     bul = DosyaBul()
     input("Programın Kapatılması için bir tuşa basın!")
 yanlisbirseyler yapmadigimi umuyorum eger gene herseyi silersem toparlamak baya zaman alacak sanirsam galiba ,,
+
+print('kodlar bitti')
